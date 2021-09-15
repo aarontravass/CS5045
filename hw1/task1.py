@@ -1,4 +1,4 @@
-protien_seq = "ACDE"
+protien_seq = "ACDEFGHIKLMNPQRSTVWY"
 
 
 def proteinCheck(s: str):
