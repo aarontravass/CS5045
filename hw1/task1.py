@@ -1,7 +1,6 @@
 protien_seq = "ACDEFGHIKLMNPQRSTVWY"
 
-
-def proteinCheck(s: str):
+def proteinCheck(s):
     for pr in protien_seq:
         if s.count(pr) <= 0:
             print("Not a protein sequence")

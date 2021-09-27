@@ -1,0 +1,5 @@
+total_seconds=int(input("Input the total number of seconds - "))
+hours=int(total_seconds/3600)
+minutes=int((total_seconds-(hours*3600))/60)
+seconds=int((total_seconds-(hours*3600)-(minutes*60)))
+print("The time is "+str(hours)+" hour(s), "+str(minutes)+" minute(s) and "+str(seconds)+" second(s)")
