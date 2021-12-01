@@ -1,7 +1,8 @@
 def isalphanum(data: str):
     for s in data:
         if not (s.isalnum() or s.isnumeric()):
-            break
+            return False
+    return True
 
 
 def check_length(password):
@@ -21,7 +22,7 @@ def check_case(password: str):
 
 
 def check_content(password: str):
-    if password.isalnum():
+    if password.isalpha():
         return 1
     elif isalphanum(password):
         return 2
