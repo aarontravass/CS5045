@@ -10,6 +10,6 @@ def bubblesort(mylist):
         if not shouldContinue:
             break
 
-a=[1,5,3,2]
+a=[1,2,3,4]
 bubblesort(a)
 print(a)
