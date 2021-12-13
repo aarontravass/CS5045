@@ -1,0 +1,125 @@
+C:\Python3\python.exe C:/Users/Aaron/Documents/vt/CS5045/final/task3.py
+Enter a guess: 6
+Your guess was smaller. Try again
+Enter a guess: 10
+Your guess was smaller. Try again
+Enter a guess: 15
+Your guess was smaller. Try again
+Enter a guess: 20
+Your guess was bigger. Try again
+Enter a guess: 18
+Correct answer
+Turns: 5
+Enter a guess: 10
+Your guess was smaller. Try again
+Enter a guess: 15
+Your guess was smaller. Try again
+Enter a guess: 18
+Your guess was smaller. Try again
+Enter a guess: 20
+Your guess was smaller. Try again
+Enter a guess: 50
+Your guess was smaller. Try again
+Enter a guess: 89
+Your guess was bigger. Try again
+Enter a guess: 76
+Your guess was bigger. Try again
+Enter a guess: 67
+Your guess was smaller. Try again
+Enter a guess: 70
+Your guess was smaller. Try again
+Enter a guess: 71
+Correct answer
+Turns: 10
+Enter a guess: 50
+Your guess was smaller. Try again
+Enter a guess: 75
+Your guess was smaller. Try again
+Enter a guess: 87
+Your guess was bigger. Try again
+Enter a guess: 82
+Your guess was bigger. Try again
+Enter a guess: 77
+Correct answer
+Turns: 5
+Enter a guess: 50
+Correct answer
+Turns: 1
+Enter a guess: 50
+Your guess was bigger. Try again
+Enter a guess: 25
+Your guess was smaller. Try again
+Enter a guess: 37
+Your guess was smaller. Try again
+Enter a guess: 43
+Your guess was bigger. Try again
+Enter a guess: 40
+Your guess was smaller. Try again
+Enter a guess: 41
+Correct answer
+Turns: 6
+Enter a guess: 50
+Your guess was smaller. Try again
+Enter a guess: 75
+Your guess was bigger. Try again
+Enter a guess: 67
+Your guess was smaller. Try again
+Enter a guess: 71
+Your guess was bigger. Try again
+Enter a guess: 68
+Your guess was smaller. Try again
+Enter a guess: 70
+Correct answer
+Turns: 6
+Enter a guess: 50
+Your guess was bigger. Try again
+Enter a guess: 25
+Your guess was bigger. Try again
+Enter a guess: 15
+Your guess was smaller. Try again
+Enter a guess: 20
+Your guess was smaller. Try again
+Enter a guess: 22
+Your guess was smaller. Try again
+Enter a guess: 23
+Correct answer
+Turns: 6
+Enter a guess: 50
+Your guess was bigger. Try again
+Enter a guess: 25
+Your guess was bigger. Try again
+Enter a guess: 15
+Your guess was bigger. Try again
+Enter a guess: 10
+Your guess was bigger. Try again
+Enter a guess: 5
+Your guess was smaller. Try again
+Enter a guess: 7
+Your guess was smaller. Try again
+Enter a guess: 8
+Your guess was smaller. Try again
+Enter a guess: 9
+Correct answer
+Turns: 8
+Enter a guess: 50
+Your guess was bigger. Try again
+Enter a guess: 25
+Your guess was bigger. Try again
+Enter a guess: 15
+Your guess was smaller. Try again
+Enter a guess: 20
+Your guess was smaller. Try again
+Enter a guess: 22
+Correct answer
+Turns: 5
+Enter a guess: 50
+Your guess was bigger. Try again
+Enter a guess: 25
+Your guess was smaller. Try again
+Enter a guess: 37
+Your guess was bigger. Try again
+Enter a guess: 30
+Correct answer
+Turns: 4
+[5, 10, 5, 1, 6, 6, 6, 8, 5, 4]
+5.6
